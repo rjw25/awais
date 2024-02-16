@@ -1,0 +1,10 @@
+{
+    "name": "arrakis33",
+    "version": "1.0.0",
+    "bin": {
+        "arrakis33": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.2"
+    }
+}
